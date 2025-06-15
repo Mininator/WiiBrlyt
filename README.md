@@ -40,8 +40,8 @@ Veuillez bien désactiver votre antivirus.
 |------------|---------------|
 | Windows 10 | ✅ Supporté    |
 | Windows 11 | ✅ Supporté    |
-| Linux      | ❌ Comming soon|
-| macOS      | ❌ Comming soon|
+| Linux      | ❌ à suivre    |
+| macOS      | ❌ à suivre    |
 
 ---
 
