@@ -66,7 +66,7 @@ Wiibrlyt permet d’extraire, analyser et modifier les layouts et animations de 
 - Version actuelle : `v1.0.0`
 - Statut : Stable
 - Fonctionnalités à venir :
-  - Prise en charge de `.tpl` / `.brres`
+  - Prise en charge de `.brlyt` / `.brlan`
   - Affichage visuel de la hiérarchie
   - Conversion par lot
 
