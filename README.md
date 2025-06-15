@@ -81,16 +81,6 @@ Ce projet est sous licence **MIT**. Vous êtes libre de l’utiliser, le modifie
 ## 🤝 Contribuer
 
 Les contributions sont bienvenues ! Proposez vos améliorations, corrigez des bugs ou ouvrez des issues pour suggérer de nouvelles fonctionnalités.
-
----
-
-## 📬 Contact
-
-Pour toute question ou retour :
-
-- GitHub issues
-- [Ton e-mail ou lien Discord ici]
-
 ---
 
 ## 💡 Exemple
