@@ -31,7 +31,7 @@ Wiibrlyt offre une interface simple, stable et accessible pour explorer et expor
 6. Le fichier `.xmlyt .xmlan` est généré dans le même dossier que l’original
 
 ## ⚠️ Attention 
-Veuillez bien désactiver votre antivirus.
+Veuillez bien désactiver votre antivirus McAfee .
 ---
 
 ## 🖥️ Compatibilité
