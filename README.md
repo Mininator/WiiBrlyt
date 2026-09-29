@@ -38,10 +38,9 @@ Veuillez bien désactiver votre antivirus McAfee .
 
 | Plateforme | Statut        |
 |------------|---------------|
-| Windows 10 | ✅ Supporté    |
-| Windows 11 | ✅ Supporté    |
-| Linux      | ❌ à suivre    |
-| macOS      | ❌ à suivre    |
+| Windows 11/10 | ✅ Supporté    |
+| Linux         | ❌ à suivre    |
+| macOS         | ❌ à suivre    |
 
 ---
 
