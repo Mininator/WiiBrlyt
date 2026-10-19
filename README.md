@@ -60,17 +60,6 @@ Wiibrlyt permet d’extraire, analyser et modifier les layouts et animations de 
 
 ---
 
-## 📦 État du projet
-
-- Version actuelle : `v1.0.0`
-- Statut : Stable
-- Fonctionnalités à venir :
-  - Prise en charge de `.brlyt` / `.brlan`
-  - Affichage visuel de la hiérarchie
-  - Conversion par lot
-
----
-
 ## 📄 Licence
 
 Ce projet est sous licence **MIT**. Vous êtes libre de l’utiliser, le modifier et le redistribuer selon les termes de cette licence.
