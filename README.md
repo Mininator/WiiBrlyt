@@ -1,4 +1,5 @@
 # Wiibrlyt
+![Logo de Wiibrlyt](assets/logo.png)
 
 **Wiibrlyt** est un logiciel Windows permettant de convertir les fichiers `.brlyt` (layouts graphiques Wii) et `.brlan` (animations) vers un format XML lisible : `.xmlyt`. Il s’adresse principalement aux créateurs et moddeurs de chaînes Wii, qu’elles soient officielles ou personnalisées, souhaitant modifier, comprendre ou documenter les interfaces et animations utilisées dans leurs projets.
 
