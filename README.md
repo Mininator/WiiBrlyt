@@ -24,12 +24,12 @@ Benzi.exe, plutôt que de passer par la ligne de commande.
 
 ## 🧑‍💻 Utilisation
 
-1  Déchiffrer le dossier .zip
-2. Lancez `Wiibrlyt.exe`
-3. Cliquez sur **"Ouvrir un fichier"**
-4. Sélectionnez un fichier `.brlyt` ou `.brlan`
-5. Cliquez sur **"Convertir les fichiers"**
-6. Le fichier `.xmlyt .xmlan` est généré dans le même dossier que l’original
+- 1  Déchiffrer le dossier .zip
+- 2. Lancez `Wiibrlyt.exe`
+- 3. Cliquez sur **"Ouvrir un fichier"**
+- 4. Sélectionnez un fichier `.brlyt` ou `.brlan`
+- 5. Cliquez sur **"Convertir les fichiers"**
+- 6. Le fichier `.xmlyt .xmlan` est généré dans le même dossier que l’original
 
 ## 🖥️ Compatibilité
 
